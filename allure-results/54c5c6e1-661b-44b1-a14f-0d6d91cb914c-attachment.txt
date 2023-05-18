@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='layout-container']/div/entry-create-personal-form/form/div[2]/peb-form-background/div/two-column-form/div/peb-form-field-input[1]/div/div/span\"}\n  (Session info: chrome=112.0.5615.138)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x011CDCE3+50899]\n\t(No symbol) [0x0115E111]\n\t(No symbol) [0x01065588]\n\t(No symbol) [0x010908F9]\n\t(No symbol) [0x01090AFB]\n\t(No symbol) [0x010BF902]\n\t(No symbol) [0x010AB944]\n\t(No symbol) [0x010BE01C]\n\t(No symbol) [0x010AB6F6]\n\t(No symbol) [0x01087708]\n\t(No symbol) [0x0108886D]\n\tGetHandleVerifier [0x01433EAE+2566302]\n\tGetHandleVerifier [0x014692B1+2784417]\n\tGetHandleVerifier [0x0146327C+2759788]\n\tGetHandleVerifier [0x01265740+672048]\n\t(No symbol) [0x01168872]\n\t(No symbol) [0x011641C8]\n\t(No symbol) [0x011642AB]\n\t(No symbol) [0x011571B7]\n\tBaseThreadInitThunk [0x75907D49+25]\n\tRtlInitializeExceptionChain [0x772DB74B+107]\n\tRtlClearBits [0x772DB6CF+191]\n"
+}

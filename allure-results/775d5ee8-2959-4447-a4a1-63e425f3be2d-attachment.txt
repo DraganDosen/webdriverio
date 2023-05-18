@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@class='ng-tns-c170-1 ng-pristine ng-invalid ng-touched']"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "/html/body/app-root/app-lazy/user-dashboard/base-dashboard/div/div/div/widgets-layout/div/div/apps-widget/pe-widget/div/div/div[1]/div[2]/pe-widget-icons/div/div/div/div[3]"
+}

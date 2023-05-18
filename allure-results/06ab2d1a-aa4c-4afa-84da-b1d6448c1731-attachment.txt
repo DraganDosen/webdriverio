@@ -1,0 +1,3 @@
+{
+  "url": "https://commerceos.staging.devpayever.com/registration/business"
+}

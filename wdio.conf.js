@@ -23,12 +23,13 @@ export const config = {
     // will be called from there.
     //
     suites:{
-        niceTests: ['./test/specs/firstTest.js', './test/specs/example.e2e.js']
+       // niceTests: ['./test/specs/aafirstTestcopy.js','./test/specs/absignup.js']
+        niceTests: ['./test/specs/firstTest.js']
     },
     specs: [
         './test/specs/firstTest.js',
         //'./test/specs/uiControls.js'
-        './test/specs/example.e2e.js'
+        //'./test/specs/example.e2e.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -50,7 +51,7 @@ export const config = {
     // and 30 processes will get spawned. The property handles how many capabilities
     // from the same test should run tests.
     //
-    maxInstances: 10,
+    maxInstances: 1,
     //
     // If you have trouble getting all important capabilities together, check out the
     // Sauce Labs platform configurator - a great tool to configure your capabilities:
@@ -106,7 +107,7 @@ export const config = {
     baseUrl: 'http://localhost',
     //
     // Default timeout for all waitFor* commands.
-    waitforTimeout: 20000,
+    waitforTimeout: 40000,
     //
     // Default timeout in milliseconds for request
     // if browser driver or grid doesn't send response
